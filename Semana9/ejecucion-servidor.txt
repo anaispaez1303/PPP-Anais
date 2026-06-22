@@ -1,0 +1,8 @@
+1. Cuando se ejecuta "node server.js" el servidor
+empieza a ejecutarse y empieza a funcionar.
+
+2. Servidor ejecutandose en el puerto 3000, Servidor
+activo y funcionando.
+
+3. {"estado":"Servidor funcionando","servicio":
+"API comunitaria"}
