@@ -1,0 +1,9 @@
+Evento: Subir Nuevo Reporte.
+
+Acción: Enviar Reporte.
+
+Mensaje: “Nuevo reporte enviado.”
+
+Información que no debe enviarse: nombres completos,
+documentos de identidad, direcciones, teléfonos,
+claves o datos sensibles.

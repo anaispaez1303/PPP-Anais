@@ -1,0 +1,10 @@
+Como ciudadano quiero que la pagina sea facil de
+manejar.
+
+Como coordinador quiero que las alertas de reporte
+sean organizadas dependiendo la prioridad y la 
+urgencia de cada una.
+
+Como miembro del equipo quiero tener un acceso
+libre a la pagina para poder hacer seguimiento a los
+reportes sin complicaciones.
