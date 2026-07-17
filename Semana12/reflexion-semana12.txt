@@ -1,0 +1,26 @@
+Durante este curso aprendí que la tecnología es una
+herramienta muy importante para fortalecer la
+participación ciudadana y mejorar la organización
+comunitaria. Comprendí que, mediante plataformas 
+digitales, las personas pueden expresar sus
+opiniones, apoyar iniciativas y participar de forma
+más rápida y sencilla. También aprendí la
+importancia de utilizar bases de datos para
+almacenar la información de manera organizada, 
+implementar sistemas de autenticación para proteger
+el acceso de los usuarios y aplicar medidas de
+seguridad para cuidar los datos personales.
+
+Además, entendí cómo la automatización con
+herramientas como n8n y el uso de canales como
+Telegram permiten enviar notificaciones, agilizar
+procesos y mantener informada a la comunidad sin
+realizar todas las tareas manualmente. Otro
+aprendizaje importante fue que generar documentos
+PDF automáticamente facilita presentar peticiones y
+compartir información de manera formal. En general,
+este curso me permitió comprender que la tecnología
+no solo facilita el trabajo, sino que también
+promueve una participación ciudadana más organizada,
+eficiente, transparente y accesible para todas las
+personas.

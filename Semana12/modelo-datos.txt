@@ -1,0 +1,11 @@
+Cliente
+id
+titulo
+descripcion
+fecha
+
+Empresa
+id
+causa_id
+nombre
+fecha
